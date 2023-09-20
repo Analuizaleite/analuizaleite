@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Gmail-191622?style=for-the-badge&logo=gmail&logoColor=F489DF"  style="max-width:100%; padding:10px" ></a>
 </p>
 
-<h2 style="color: #F489D6">Infos</h2>
+<h2 style="color: #F489D6">Conhecimentos</h2>
 <p align = "center"> 
 <img alt="HTML" src="https://img.shields.io/badge/html-191622?style=for-the-badge&logo=html5&logoColor=F489DF"  style="max-width:100%; padding:10px">
 <img alt="CSS" src= "https://img.shields.io/badge/css-191622?style=for-the-badge&logo=css3&logoColor=F489DF"  style="max-width:100%;padding:10px">
@@ -29,7 +29,7 @@
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-191622?&style=for-the-badge&logo=kotlin&logoColor=F489DF" style="max-width:100%;padding:10px">
 </p>
 
-<h2 style="color: #F489D6">Conhecimentos</h2>
+<h2 style="color: #F489D6">Infos</h2>
 <p align = "center"> 
 <img height ="80%" style="padding:20px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=analuizaleite&bg_color=191622&border_color=F489D6C&title_color=F489D6&text_color=FFF">
 <img height ="80%" style="padding:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=analuizaleite&theme=omni&hide_border=false" style="max-width:100%; padding:20px>
