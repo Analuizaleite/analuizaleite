@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Gmail-191622?style=for-the-badge&logo=gmail&logoColor=F489DF"  style="max-width:100%; padding:10px" ></a>
 </p>
 
-<h2 style="color: #F489D6">Conhecimentos</h2>
+<h2 style="color: #F489D6">Infos</h2>
 <p align = "center"> 
 <img alt="HTML" src="https://img.shields.io/badge/html-191622?style=for-the-badge&logo=html5&logoColor=F489DF"  style="max-width:100%; padding:10px">
 <img alt="CSS" src= "https://img.shields.io/badge/css-191622?style=for-the-badge&logo=css3&logoColor=F489DF"  style="max-width:100%;padding:10px">
