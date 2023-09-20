@@ -13,7 +13,7 @@
 <a href="https://discordapp.com/users/778376693870100491" target="_blank" alt="Discord">
 <img src= "https://img.shields.io/badge/Discord-191622?style=for-the-badge&amp;logo=discord&amp;logoColor=F489D6&amp;link=https://discordapp.com/users/778376693870100491" style="max-width:100%;padding:10px"></a>
 <a href="https://www.linkedin.com/in/ana-luíza-leite-3043a4292/" target="_blank" alt="Linkedin">
-<img src="https://img.shields.io/badge/Linkedin-191622?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F489D6&amp;link=https://www.linkedin.com/in/ana-luíza-leite-3043a4292)" style="max-width:100%; padding:10px"></a>
+<img alt"Linkedin" src="https://img.shields.io/badge/Linkedin-191622?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F489D6&amp;link=https://www.linkedin.com/in/ana-luíza-leite-3043a4292)" style="max-width:100%; padding:10px"></a>
 <a href="https://www.instagram.com/__analulu__" target="_blank" alt="Instagram">
 <img src= "https://img.shields.io/badge/Instagram-191622?style=for-the-badge&amp;logo=instagram&amp;logoColor=F489D6&amp;link=https://www.instagram.com/__analulu__" style="max-width:100%;padding:10px"></a>
 <a href="mailto:analuizagnleite@gmail.com?">
