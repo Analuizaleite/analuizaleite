@@ -2,7 +2,7 @@
 <h1 align="center" style="color: #F489D6;">Oi, eu sou a Ana Lu 🙃</h1>
 
 <h2 style="color: #F489D6;">Sobre mim</h2>
- 📚 Estudante da PUC - Minas no 5º período do curso de Sistemas de Informação
+ 📚 Estudante da PUC - Minas no 3º período do curso de Sistemas de Informação
  <br>
  👩‍💻 Ainda descobrindo o mundo da tecnologia
 <br>
